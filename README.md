@@ -19,9 +19,9 @@ By default, the '--data_dir' directs the 'data' folder in the root of the codes.
 
 
 ## Citation
-@article{liu2018abc,
-  title={Adversarial Binary Coding for Efficient Person Re-identification},
-  author={Liu, Zheng and Qin, Jie and Li, Annan and Wang, Yunhong and Van Gool, Luc},
-  journal={arXiv preprint arXiv:1803.10914},
-  year={2018}
+@article{liu2018abc,   
+  title={Adversarial Binary Coding for Efficient Person Re-identification},   
+  author={Liu, Zheng and Qin, Jie and Li, Annan and Wang, Yunhong and Van Gool, Luc},   
+  journal={arXiv preprint arXiv:1803.10914},   
+  year={2018}   
 }
