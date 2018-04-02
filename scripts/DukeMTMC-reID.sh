@@ -1,0 +1,1 @@
+python ../main.py --train --test --dataset dukemtmc-reid --hash_bit 2048 --data_dir ../data/DukeMTMC-reID --resize_h 128 --resize_w 64 --result_dir ../results/dukemtmc-reid --model_dir ../models/dukemtmc-reid
