@@ -16,7 +16,7 @@ python main.py --dataset market1501 --train --test --trial 1 --data_dir /root/to
 By default, the '--data_dir' directs the 'data' folder in the root of the codes. Users can put the data folders into the 'data' folder. For convenience, we have put the train/test splitting file in pickle-readable format into the cuhk03 data folder.
 
 ## Exemplar Loss Curves on Market-1501
-![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/triplet_loss.JPG)  ![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/D_loss.JPG) ![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/G_loss.JPG)
+<img src="https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/triplet_loss.JPG" height="100", width="100">  ![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/D_loss.JPG) ![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/G_loss.JPG)
 
 ## Citation
 @article{liu2018abc,   
