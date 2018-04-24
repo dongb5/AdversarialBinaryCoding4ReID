@@ -19,7 +19,7 @@ By default, the '--data_dir' directs the 'data' folder in the root of the codes.
 ![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/triplet_loss_small.jpg?raw=true)  ![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/D_loss_small.jpg?raw=true) ![](https://github.com/dongb5/AdversarialBinaryCoding4ReID/blob/master/figs/G_loss_small.jpg?raw=true)
 
 ## Citation
-@article{liu2018abc,   
+@article{liu2018adversarial,   
   title={Adversarial Binary Coding for Efficient Person Re-identification},   
   author={Liu, Zheng and Qin, Jie and Li, Annan and Wang, Yunhong and Van Gool, Luc},   
   journal={arXiv preprint arXiv:1803.10914},   
